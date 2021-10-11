@@ -1,0 +1,27 @@
+h5 {
+    color: #555;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.p-videos li img {
+    width: 20px;
+    margin-right: 10px;
+}
+
+.p-videos li a {
+    text-decoration: none;
+}
+
+.p-videos li {
+    list-style: none;
+}
+
+hr {
+    background-color: #555;
+}
+
+.linea-n {
+    background-color: #f07424;
+    height: 2px;
+}
